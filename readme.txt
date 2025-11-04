@@ -196,7 +196,7 @@ This major update includes a complete architecture rewrite with modern PSR-4 aut
 == Support ==
 
 For support, bug reports, or feature requests, please visit:
-[Easy Sitemap Support](https://www.pandasilk.com/wordpress-easy-sitemap-plugin/)
+[Easy Sitemap Support](https://github.com/snowbedding/wordpress-easy-sitemap)
 
 == Contributing ==
 

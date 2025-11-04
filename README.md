@@ -329,7 +329,8 @@ the Free Software Foundation; either version 2 of the License, or
 ## 📞 Support
 
 For support, bug reports, or feature requests:
-- [Easy Sitemap Support](https://www.pandasilk.com/wordpress-easy-sitemap-plugin/)
+- [WordPress Plugin Directory](https://wordpress.org/plugins/easy-sitemap/)
+- [Easy Sitemap Support](https://github.com/snowbedding/wordpress-easy-sitemap)
 
 ---
 
